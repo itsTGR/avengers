@@ -16,5 +16,5 @@
 * Thor
 * Vision
 * Wasp
-* Antman
+* Antman 2
 * Nick Fury
